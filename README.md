@@ -1,3 +1,5 @@
+<img width="778" height="741" alt="Screenshot 2026-10-10 at 9 55 24 PM" src="https://github.com/user-attachments/assets/d58d3c35-4132-45c5-8cdc-a7106a157df6" />
+
 # Sentinel Line
 
 Endless tower defense in the browser. Random maps, layered enemies with uncapped armored tiers, two-path tower upgrades, and shareable challenge links.
